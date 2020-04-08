@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modalBottom.iml" filepath="$PROJECT_DIR$/.idea/modalBottom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flutter_login_cadastro.iml" filepath="$PROJECT_DIR$/.idea/flutter_login_cadastro.iml" />
     </modules>
   </component>
 </project>
