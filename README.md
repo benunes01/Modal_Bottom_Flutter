@@ -4,5 +4,5 @@
 <h4>Modal que fica na parte inferior da tela</h4>
 
 
-![Celular-print-modalBottom](https://user-images.githubusercontent.com/39046776/78839835-ab753d80-79cf-11ea-9764-e910f7858bb8.png)
+![modal](https://user-images.githubusercontent.com/39046776/78842585-bed7d700-79d6-11ea-9b4c-553a4600727f.jpeg)
 
